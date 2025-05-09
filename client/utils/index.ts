@@ -1,4 +1,3 @@
-import { Certification } from '../../shared/config/certification-settings';
 
 const idToPath = new Map(
   Object.entries({
